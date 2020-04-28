@@ -1,5 +1,5 @@
 import random
 
-num = random.randint(10000, 1000000)
+num = random.randint(5, 400)
 
 print(num)
